@@ -1,10 +1,10 @@
 # DroneGait Dataset
 
-This repository contains the DroneGait dataset of subject 001, which provides multi gait data types captured by drones at high vertical views. 
+This repository contains the DroneGait dataset, which provides multi gait data types captured by drones at  vertical views. The data of subject 001 is released as an example.
 
 ## Dataset Description
 
-The DroneGait dataset includes gait sequences captured by drones at high vertical views, providing a unique perspective for gait recognition research. The dataset includes multi gait data types:
+DroneGait dataset includes gait sequences captured by drones at high vertical views, providing a unique perspective for gait recognition research. The dataset includes multi gait data types:
 
     Silhouette images of the gait sequences
     2D keypoints extracted from the gait sequences
@@ -13,7 +13,7 @@ The DroneGait dataset includes gait sequences captured by drones at high vertica
 
 ## Download Instructions
 
-To download the DroneGait dataset, please use the following link:
+The data of subject 001 is released, please use the following link to download:
 
 [Google Drive Link](https://drive.google.com/file/d/1ux6QmwXyxDxJpgwSz2_dutIziN0E6uwk/view?usp=sharing)
 
