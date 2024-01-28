@@ -1,26 +1,33 @@
-# DroneGait Dataset
+# DroneGait
 
-This repository contains the DroneGait dataset, which includes multi gait data types captured by drones at different vertical views. Please note that only the data of subject 001 is currently released as an example.
+Offical respority for **Gait Recogniton with Drones: A benchmark (TMM 2023)**
 
-## Dataset Description
+![img](https://vipkshttps14.wiz.cn/editor/6ec17dc0-32d5-11ec-ad27-917c50dd37a4/ddbad43e-f15c-406c-8133-0fdf348d6bfc/resources/ZBdITo_Ux2X3Dd8eO-RC5zrzph1wKFkqFr2sk2dXd7o.png?token=W.dSKiAzwSyXxLjkgAt_G7eQeXFpWJmnt1-B3-2fjWkl6-03ULy5k-IDNLO36Hp00)
 
-DroneGait dataset includes gait sequences captured by drones at high vertical views, providing a unique perspective for gait recognition research. The dataset includes multi gait data types:
+------
 
-    Silhouette images of the gait sequences
-    2D keypoints extracted from the gait sequences
-    3D poses and meshes of the gait sequences
-    Optical flow of the gait sequences
+### Highlights in DroneGait Dataset
 
-## Download Instructions
+**(1) Extensive Range of Vertical Views**
 
-The data of subject 001 is released, please use the following link to download:
+DroneGait offers a unique perspective by including gait sequences captured at different vertical angles, ranging from approximately 0 degrees to 80 degrees.
 
-[Google Drive Link](https://drive.google.com/file/d/1ux6QmwXyxDxJpgwSz2_dutIziN0E6uwk/view?usp=sharing)
+**(2) Large and Varied Collection of Sequences**
 
-[Baidu Yun Link](https://pan.baidu.com/s/17V316rM8k1_WRPT3AkKxiw?pwd=j4ks) Code:j4ks
+The DroneGait dataset contains a considerable number of sequences, with over 22,000 instances featuring 96 different subjects. This quantity and diversity of data support the dataset's effectiveness for training and evaluating gait recognition models.
 
-Please note that currently, the dataset only contains silhouettes and 2D keypoints. Other data types such as 3D pose and 3D mesh will be released soon.
+ **(3) Incorporation of Real-Life Variability**
 
-## License
+The DroneGait dataset is designed to mimic real-world conditions by including sequences that capture subjects under various walking scenarios. It encompasses not only normal walking patterns but also introduces factors such as walking with bags (BG) and walking in different clothing (CL).
 
-This dataset is released under the [MIT License](LICENSE).
+------
+
+### Download DroneGait
+
+To obtain and use this dataset and its subsets, all users are required to complete the following steps:
+
+1. Download the latest agreement and complete it.
+2. Submit it to [BNU-IVC@outlook.com](mailto:BNU-IVC@outlook.com) .
+
+We will handle your requests within a week. In case you encounter any issues, please feel free to reach out to us via [BNU-IVC@outlook.com](mailto:BNU-IVC@outlook.com).
+
