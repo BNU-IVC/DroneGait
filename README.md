@@ -2,7 +2,7 @@
 
 Offical respority for **Gait Recogniton with Drones: A benchmark (TMM 2023)**
 
-![img](https://vipkshttps14.wiz.cn/editor/6ec17dc0-32d5-11ec-ad27-917c50dd37a4/ddbad43e-f15c-406c-8133-0fdf348d6bfc/resources/ZBdITo_Ux2X3Dd8eO-RC5zrzph1wKFkqFr2sk2dXd7o.png?token=W.dSKiAzwSyXxLjkgAt_G7eQeXFpWJmnt1-B3-2fjWkl6-03ULy5k-IDNLO36Hp00)
+
 
 ------
 
